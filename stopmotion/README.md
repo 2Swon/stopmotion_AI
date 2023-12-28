@@ -6,7 +6,7 @@
 (tensorflow, keras, python 사용)
 
 # 활용 방법
-<img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/1.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/DeepLearing/blob/main/stopmotion_AI/stopmotion/img/1.png" alt="1" style="max-width: 100%;"><br>
 <img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/2.png" alt="1" style="max-width: 100%;"><br>
 
 <img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/3.png" alt="1" style="max-width: 100%;"><br>
