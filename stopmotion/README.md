@@ -4,15 +4,15 @@
 역할: unet모델구현, 데이터제작 및 데이터라벨링<br><br>
 딥러닝 모델은 U-NET을 사용하였습니다.<br><br>
 (tensorflow, keras, python 사용)
-
+https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/1.png
 # 활용 방법
-<img src="https://github.com/2Swon/DeepLearing/blob/main/stopmotion_AI/stopmotion/img/1.png" alt="1" style="max-width: 100%;"><br>
-<img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/2.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/1.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/img/2.png" alt="1" style="max-width: 100%;"><br>
 
-<img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/3.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/3.png" alt="1" style="max-width: 100%;"><br>
 
-<img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/4.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/4.png" alt="1" style="max-width: 100%;"><br>
 
-<img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/5.png" alt="1" style="max-width: 100%;"><br>
-<img src="https://github.com/2Swon/DeepLearing/blob/main/Project/stopmotion/img/6.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/5.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/6.png" alt="1" style="max-width: 100%;"><br>
 
