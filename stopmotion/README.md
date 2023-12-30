@@ -7,7 +7,7 @@
 https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/1.png
 # 활용 방법
 <img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/1.png" alt="1" style="max-width: 100%;"><br>
-<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/img/2.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/2.png" alt="1" style="max-width: 100%;"><br>
 
 <img src="https://github.com/2Swon/stopmotion_AI/blob/main/stopmotion/img/3.png" alt="1" style="max-width: 100%;"><br>
 
