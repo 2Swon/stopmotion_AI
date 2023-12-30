@@ -1,1 +1,0 @@
-# stopmotion_AI
